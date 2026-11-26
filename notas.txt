@@ -1,1 +1,2 @@
 nota temporal
+Dia 1: aprendi git init , add , commit , log
