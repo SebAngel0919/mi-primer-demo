@@ -1,3 +1,4 @@
 nota temporal
 Dia 1: aprendi git init , add , commit , log
 Dia 2: aprendi .gitignore y amend
+Dia 3: publique mi primer repositorio en GitHub
