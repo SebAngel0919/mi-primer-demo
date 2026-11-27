@@ -27,7 +27,7 @@ git show # Muestra informacion del ultimo commit realizado ; hash, autor, fecha,
 
 git commit --amend -m "mensaje" # Modifica el mensaje del ultimo commit realizado
 
-# .gitignore : Todo lo que se encuentre dentro de esa carpepta, git no los trackeara
+.gitignore : Todo lo que se encuentre dentro de esa carpepta, git no los trackeara
 
 git restore <archivo.ext> # Deshace el ultimo cambio hecho en el archivo del directorio de trabajo
 git restore --staged <archivo.ext> # Deshace el comando git add <archivo.ext>
@@ -39,4 +39,4 @@ git push -u origin main # Sube los archivos del repo local al repositorio remoto
 
 git fetch # Descarga los cambios del repo remoto sin aplicarlos
 git merge # Combina los cambios y los aplicarlos
-# git pull = git fetch + git merge
+git pull = git fetch + git merge
